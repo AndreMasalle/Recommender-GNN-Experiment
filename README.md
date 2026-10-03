@@ -1,4 +1,4 @@
-# Recommender GNN Experiment
+# Recommender Graph Neural Network Experiment
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
